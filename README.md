@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/Enilolade/testimonial-grid)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github.io](https://enilolade.github.io/testimonial-grid/)
 
 ## My process
 

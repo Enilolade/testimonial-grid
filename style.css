@@ -152,7 +152,7 @@ footer {
     display: grid;
     gap: 2rem;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(2, 280px);
+    grid-template-rows: repeat(2, 300px);
     width: 100%;
   }
 
